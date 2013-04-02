@@ -1,4 +1,3 @@
-first_app
+searchengine
 =========
 
-Rails Tut app
